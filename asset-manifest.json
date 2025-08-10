@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gitHub_portfolio_leyonPaul/static/css/main.e3c75594.css",
-    "main.js": "/gitHub_portfolio_leyonPaul/static/js/main.6d9a4622.js",
+    "main.js": "/gitHub_portfolio_leyonPaul/static/js/main.d49f52ee.js",
     "static/js/415.4d6acbeb.chunk.js": "/gitHub_portfolio_leyonPaul/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/gitHub_portfolio_leyonPaul/static/js/787.1ed0c42c.chunk.js",
     "static/media/chatify.png": "/gitHub_portfolio_leyonPaul/static/media/chatify.a42d098d9a98d0373ab0.png",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/gitHub_portfolio_leyonPaul/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/gitHub_portfolio_leyonPaul/index.html",
     "main.e3c75594.css.map": "/gitHub_portfolio_leyonPaul/static/css/main.e3c75594.css.map",
-    "main.6d9a4622.js.map": "/gitHub_portfolio_leyonPaul/static/js/main.6d9a4622.js.map",
+    "main.d49f52ee.js.map": "/gitHub_portfolio_leyonPaul/static/js/main.d49f52ee.js.map",
     "415.4d6acbeb.chunk.js.map": "/gitHub_portfolio_leyonPaul/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/gitHub_portfolio_leyonPaul/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3c75594.css",
-    "static/js/main.6d9a4622.js"
+    "static/js/main.d49f52ee.js"
   ]
 }
