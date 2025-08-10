@@ -25,7 +25,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Swiggy"
+              title="zomato"
               description="I have developed a Zomato Front-End UI using React JS that replicates key elements of the Zomato website. This design captures the look and feel of a modern food delivery interface with a user-friendly layout and responsive design."
               ghLink="https://github.com/Leyon04/Zomato-Front-End-Design-main"
              
